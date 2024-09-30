@@ -1,4 +1,3 @@
-# Moonbonds
-Decentralized bond Exchange
+SilverMoon is a Decentralized Bond Exchange that is based on the EIP 3475 standard, Abstract Storage Bonds. 
 
-Corporate bond address on Scroll: 0x9946F43C8A5Ff530f3539b11EF1D50939407e163
+This is the Moonbeam Collator integration of the Bonds. Collators can now raise funds for their Collator business by issuing Bond Tokens. Collators will repay by sharing their Collator Rewards.
